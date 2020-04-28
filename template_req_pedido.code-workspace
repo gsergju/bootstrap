@@ -1,0 +1,13 @@
+{
+	"status":"N",
+	"observacoes":"Primeiro pedido efetuado colab Jose",
+	"dataPedido":"27/04/2020",
+	"solicitante":{
+		"id":2
+	},
+	"itens":[
+		{ "itemSoftware": {"id": 1 } },
+		{ "itemSoftware": {"id": 2 } },
+		{ "itemSoftware": {"id": 5 } }
+	]
+}

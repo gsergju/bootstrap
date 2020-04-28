@@ -1,0 +1,92 @@
+body{
+    background-color:#0056b3;
+ 
+}
+
+.row{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container{
+    background-color: orangered;
+    height: auto;
+    width: 700;
+}
+.containerlogin{
+    background-color: orangered;
+    height: 569;
+    width:700;
+    
+}
+.containerProfile{
+    background-color: orangered;
+    height: 569;
+    width:700;
+    
+}
+
+.Funcional{
+    margin-right:auto;
+    margin-left: auto;
+    height: 100%;
+    width: 300;
+}
+
+.Senha{
+    margin-right:auto;
+    margin-left: auto;
+    height: 100%;
+    width: 300;
+}
+
+.Conectar{
+    
+    margin-right:100;
+    margin-left: auto;
+    height: 100%;
+    width: 300;
+}
+
+.btn{
+    background-color: #0056b3;
+}
+
+.img-login{
+    width: 100px; 
+ }
+ .img-profile {
+    width: 60px; 
+ }
+
+ .fotoCss {
+    width: 150px; 
+    margin-right:60;
+    margin-left: 10;
+ }
+
+ .perfilCss {
+    margin-right:auto;
+    margin-left: 15;
+    
+ }
+
+
+ .novopedido {
+    margin-right:100;
+    margin-left: 200;
+ }
+
+ .NomeCss {
+    font-weight: bold;
+    font-size: 15px;
+ }
+
+ .TituloNome {
+    font-weight: bold;
+    font-size: 20px;
+ }
+
+#erroMsg{
+    color:RED;
+    visibility: hidden;
+}
